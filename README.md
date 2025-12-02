@@ -27,7 +27,7 @@ Ela permite realizar operações básicas de CRUD (Create, Read, Update, Delete)
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Markevisky/gerenciador-tarefas-v2
+   git clone https://github.com/Markevisky/gerenciador-tarefas-v2.git
    ```
 2. execute o arquivo:
 
